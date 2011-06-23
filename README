@@ -1,0 +1,9 @@
+project: WebOS Splash Screen Demo
+description: Open source custom splash screen implementation demo project for HP webOS 3.0 (Enyo).
+instructions:
+**NOTE: these instructions assume you have already installed the webOS 3.0 SDK**
+1. check out source code from git
+2. from checkout directory execute "palm-package ."
+3. attach a webOS 3.0 compatible device or start an emulator with command "palm-emulator"
+4. from checkout directory execute "palm-install <IPK_FILE>" where <IPK_FILE> is the name of the *.ipk webOS application package generated from step 2
+5. on your device or emulator, launch the application
