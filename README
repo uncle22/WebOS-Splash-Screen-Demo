@@ -1,4 +1,5 @@
 project: WebOS Splash Screen Demo
+author: Nate McIntyre - http://www.natemcintyre.com/
 description: Open source custom splash screen implementation demo project for HP webOS 3.0 (Enyo).
 instructions:
 **NOTE: these instructions assume you have already installed the webOS 3.0 SDK**
