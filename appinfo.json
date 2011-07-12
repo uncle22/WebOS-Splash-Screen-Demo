@@ -1,0 +1,10 @@
+{
+    "id": "com.natemcintyre.splashscreendemo",
+    "version": "1.0.1",
+    "vendor": "Nathan McIntyre",
+    "type": "web",
+    "main": "index.html",
+    "title": "SplashScreen Demo",
+    "icon": "icon.png",
+	"uiRevision": 2
+}
